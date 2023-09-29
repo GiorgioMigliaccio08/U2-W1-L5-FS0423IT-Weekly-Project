@@ -1,0 +1,437 @@
+svg {
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.nav {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffc017;
+  border-bottom: 1px solid black;
+}
+.menunav {
+  list-style-type: none;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 80px;
+}
+
+.menunav li {
+  margin-right: 40px;
+}
+
+.titleyellow {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid black;
+  background-color: #ffc017;
+}
+h1 {
+  font-size: 5em;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin: 80px 120px 0px 120px;
+}
+h3 {
+  font-size: 1.5em;
+  margin-top: 30px;
+  margin-left: 120px;
+}
+h4 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 5px;
+}
+.trendingcontainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 200px;
+  padding-bottom: 20px;
+}
+#primobottone {
+  font-family: inherit;
+  color: white;
+  line-height: 30px;
+  width: 100px;
+  background-color: rgba(25, 25, 25, 1);
+  border-radius: 99em;
+  border: 1px solid rgba(25, 25, 25, 1);
+}
+
+#secondobottone {
+  font-family: inherit;
+  color: white;
+  line-height: 20px;
+  width: 200px;
+  background-color: rgba(25, 25, 25, 1);
+  border-radius: 99em;
+  border: 1px solid rgba(25, 25, 25, 1);
+  padding: 7px 16px 9px;
+  font-size: 1.2em;
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.box1 {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height: 130px;
+}
+#zerouno {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#tom {
+  border-radius: 99%;
+  padding-right: 10px;
+}
+
+#Tom {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+#testograssetto {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+#descrizione {
+  font-size: 0, 8em;
+  color: rgb(54, 54, 54);
+}
+
+.box2 {
+  display: flex;
+  flex-direction: row;
+
+  width: 500px;
+  height: 130px;
+}
+#zerodue {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#arthur {
+  border-radius: 0%;
+  padding-right: 10px;
+}
+
+#Arthur {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box3 {
+  display: flex;
+  flex-direction: row;
+
+  width: 500px;
+  height: 130px;
+}
+#zerotre {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#erin {
+  border-radius: 10%;
+  padding-right: 10px;
+}
+
+#Erin {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box4 {
+  display: flex;
+  flex-direction: row;
+
+  width: 500px;
+  height: 130px;
+}
+#zeroquattro {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#frank {
+  border-radius: 10%;
+  padding-right: 10px;
+}
+
+#Frank {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box5 {
+  display: flex;
+  flex-direction: row;
+
+  width: 500px;
+  height: 130px;
+}
+#zerocinque {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#frank1 {
+  border-radius: 10%;
+  padding-right: 10px;
+}
+
+#Frank1 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box6 {
+  display: flex;
+  flex-direction: row;
+
+  width: 500px;
+  height: 130px;
+}
+#zerosei {
+  font-size: 3em;
+  color: rgb(117, 115, 112);
+  padding-right: 20px;
+}
+
+.contenutoalto {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+#wesley {
+  border-radius: 100%;
+  padding-right: 10px;
+}
+
+#Wesley {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenutobasso {
+  padding: 2px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ALLINEAMENTO CONTAINER */
+.containerdue {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.containertre {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-bottom: 1px solid rgb(192, 186, 186);
+  padding-bottom: 40px;
+}
+
+/* PARTE CON I QUADRATI */
+
+.quadratouno {
+  width: 800px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 100px;
+  padding-left: 200px;
+  padding-top: 40px;
+}
+
+#borderradius {
+  border-radius: 100%;
+}
+
+.intestazione {
+  display: flex;
+  flex-direction: row;
+}
+
+#scritta {
+  padding-bottom: 10px;
+  color: rgb(96, 98, 97);
+}
+
+#nome {
+  font-size: 0.8em;
+}
+
+#bottonetre {
+  color: rgb(96, 98, 97);
+  text-align: center;
+  width: 60px;
+  height: 25px;
+  border-radius: 20%;
+  border: 0.5px solid transparent;
+}
+#bottonequattro {
+  color: rgb(96, 98, 97);
+  text-align: center;
+  width: 150px;
+  height: 30px;
+  border-radius: 20%;
+  border: 0.5px solid transparent;
+}
+
+.quadratodue {
+  width: 1000px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 100px;
+  padding-left: 200px;
+  padding-top: 40px;
+}
+.sinistra {
+  padding-left: 187px;
+}
+
+.quadratotre {
+  width: 800px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 100px;
+  padding-left: 200px;
+  padding-top: 40px;
+}
+
+.quadratoquattro {
+  width: 800px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 100px;
+  padding-left: 200px;
+  padding-top: 40px;
+}
+
+.containerquattro {
+  display: flex;
+  justify-content: row;
+}
+
+.containersei {
+  padding-top: 30px;
+}
+
+#bold {
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+#stile {
+  background-color: white;
+  color: rgb(132, 132, 128);
+  padding: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border: 1px solid rgb(162, 162, 156);
+}
+
+#color {
+  color: rgb(162, 162, 155);
+}
+#color1 {
+  padding-top: 20px;
+
+  color: rgb(162, 162, 155);
+}
